@@ -1,4 +1,4 @@
-# BibliotecaDB - Banco de Dados Completo para Gestão de Livros e Autores
+# BibliotecaDB - Banco de Dados para Gestão de Livros e Autores
 
 Este projeto é um **banco de dados relacional** desenvolvido para o gerenciamento de uma biblioteca, abrangendo livros, autores, usuários e empréstimos. Utilizando **funcionalidades avançadas** do SQL, como **triggers, views, índices e procedures**, este sistema proporciona um ambiente robusto e otimizado para manipulação de dados.
 
